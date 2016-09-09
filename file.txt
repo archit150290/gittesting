@@ -1,1 +1,1 @@
-archit check archit
+archit checkprivate archit
